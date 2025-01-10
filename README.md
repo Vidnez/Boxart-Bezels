@@ -1,5 +1,5 @@
 # Boxart-Bezels
-Bezels for Powkiddy RGB30
+Bezels for 1:1 screens
 
 4:3 bezels for Retroarch based on games boxart. I recommend to use pixel-art-scaling/pixel_aa.glslp shader to avoid uneven pixels in 4:3 systems (You need to use the Online updater inside Retroarch if you dont have the shader. Main menu>Online updater>Update GLSL Shaders).
 
